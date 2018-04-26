@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 *.pgm
 *.layout
 *.depend
 *.cbp
+=======
+*.cbp
+*.depend
+*.layout
+>>>>>>> 534587b3542830c270974f0b2b8c80a4460d0329
 
 # Prerequisites
 *.d
